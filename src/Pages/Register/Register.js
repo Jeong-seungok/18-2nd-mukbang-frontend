@@ -220,7 +220,7 @@ const Register = () => {
 
   useEffect(() => {
     address.length !== 0 && searchPlace();
-  }, [address, searchPlace]);
+  }, [address]);
 
   const handleUpload = async file => {
     uploadFile(file, config)
