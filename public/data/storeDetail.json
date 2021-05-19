@@ -1,0 +1,87 @@
+{
+  "result": {
+    "store_id": 53,
+    "category": "한식",
+    "open_status": "오픈중",
+    "store_name": "순남시래기",
+    "opening_time_description": "평일 09시 ~ 23시",
+    "phone_number": "02-427-6626",
+    "store_images": [
+      "https://steemitimages.com/DQmf9fgCzGWsqj1gcoP9Z8YDCKykDGi1KRdanrZAdQtFLVE/20180221_190332.jpg",
+      "https://s3-ap-northeast-1.amazonaws.com/dcreviewsresized/20200712094922_photo1_68d1c5bf458f.jpg",
+      "https://s3-ap-northeast-1.amazonaws.com/dcreviewsresized/20200712094922_photo3_68d1c5bf458f.jpg"
+    ],
+    "one_line_introduction": "시래기와 막걸리가 맛있는 집!",
+    "full_address": "서울 강남구 강남대로66길 16",
+    "short_address": "강남구 역삼동",
+    "lon": "127.032166561787",
+    "lat": "37.4918939171295",
+    "sns_url": "https://www.instagram.com/soonnamsiraegi/",
+    "is_reservation": 1,
+    "is_wifi": 1,
+    "is_parking": 0,
+    "menu_pamphlet_image_url": "https://s3-ap-northeast-1.amazonaws.com/dcreviewsresized/20200712094922_photo3_68d1c5bf458f.jpg",
+    "menus": [
+      {
+        "name": "시래기 국밥",
+        "price": 8000,
+        "menu_image_url": "https://s3-ap-northeast-1.amazonaws.com/dcreviewsresized/20200206030137603_photo_EnjdtHHZ6jYx.jpg"
+      },
+      {
+        "name": "수육",
+        "price": 13000,
+        "menu_image_url": "https://d2t7cq5f1ua57i.cloudfront.net/images/r_images/54372/58486/54372_58486_89_0_9602_2016112213118580.jpg"
+      },
+      {
+        "name": "시래기 국밥2",
+        "price": 8000,
+        "menu_image_url": "https://s3-ap-northeast-1.amazonaws.com/dcreviewsresized/20200206030137603_photo_EnjdtHHZ6jYx.jpg"
+      },
+      {
+        "name": "수육2",
+        "price": 13000,
+        "menu_image_url": "https://d2t7cq5f1ua57i.cloudfront.net/images/r_images/54372/58486/54372_58486_89_0_9602_2016112213118580.jpg"
+      },
+      {
+        "name": "시래기 국밥3",
+        "price": 8000,
+        "menu_image_url": "https://s3-ap-northeast-1.amazonaws.com/dcreviewsresized/20200206030137603_photo_EnjdtHHZ6jYx.jpg"
+      },
+      {
+        "name": "수육3",
+        "price": 13000,
+        "menu_image_url": "https://d2t7cq5f1ua57i.cloudfront.net/images/r_images/54372/58486/54372_58486_89_0_9602_2016112213118580.jpg"
+      }
+    ],
+    "metro_stations": [
+      {
+        "name": "선릉역",
+        "line": "2호선"
+      },
+      {
+        "name": "선릉역",
+        "line": "수인분당선"
+      }
+    ],
+    "review_count": 200,
+    "rating_average": 3.5,
+    "visitor_photos": [
+      "http://travel.chosun.com/site/data/img_dir/2011/07/11/2011071101128_0.jpg",
+      "http://travel.chosun.com/site/data/img_dir/2011/07/11/2011071101128_0.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": "4.5",
+        "content": "얼마나 쓸 수 있는지 한번 볼까 리뷰 남기기 몇글자까지 가능하게 할까요 얼마나 쓸 수 있는지 한번 볼까 리뷰 남기기 몇글자까지 가능하게 할까요 (이게 100자)",
+        "image_url": "http://travel.chosun.com/site/data/img_dir/2011/07/11/2011071101128_0.jpg",
+        "updated_at": "2021-04-04T00:08:02.064"
+      },
+      {
+        "rating": "1.5",
+        "content": "얼마나 쓸 수 있는지 한번 볼까 리뷰 남기기 몇글자까지 가능하게 할까요 얼마나 쓸 수 있는지 한번 볼까 리뷰 남기기 몇글자까지 가능하게 할까요 (이게 100자)",
+        "image_url": "http://travel.chosun.com/site/data/img_dir/2011/07/11/2011071101128_0.jpg",
+        "updated_at": "2021-04-04T00:08:02.064"
+      }
+    ]
+  }
+}

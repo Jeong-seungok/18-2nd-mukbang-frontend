@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "https://www.chrischae.kr/content/images/size/w1200/2019/12/starbucks1.jpg",
+    "price": 10000.0,
+    "name": "아메리카노"
+  },
+  {
+    "id": 2,
+    "img": "https://www.chrischae.kr/content/images/size/w1200/2019/12/starbucks1.jpg",
+    "price": 10000.0,
+    "name": "라떼"
+  },
+  {
+    "id": 3,
+    "img": "https://www.chrischae.kr/content/images/size/w1200/2019/12/starbucks1.jpg",
+    "price": 10000.0,
+    "name": "쿨라임 피지오"
+  },
+  {
+    "id": 4,
+    "img": "https://www.chrischae.kr/content/images/size/w1200/2019/12/starbucks1.jpg",
+    "price": 10000.0,
+    "name": "프라푸치노"
+  },
+  {
+    "id": 5,
+    "img": "https://www.chrischae.kr/content/images/size/w1200/2019/12/starbucks1.jpg",
+    "price": 10000.0,
+    "name": "카페모카"
+  },
+  {
+    "id": 6,
+    "img": "https://www.chrischae.kr/content/images/size/w1200/2019/12/starbucks1.jpg",
+    "price": 10000.0,
+    "name": "아이스 아메리카노"
+  }
+]

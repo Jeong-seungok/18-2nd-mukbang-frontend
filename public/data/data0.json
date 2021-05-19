@@ -1,0 +1,137 @@
+{
+  "storeCount": 123,
+  "stores": [
+    {
+      "id": 1,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    },
+    {
+      "id": 2,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    },
+    {
+      "id": 3,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    },
+    {
+      "id": 4,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    },
+    {
+      "id": 5,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    },
+    {
+      "id": 6,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    },
+    {
+      "id": 7,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    },
+    {
+      "id": 8,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    },
+    {
+      "id": 9,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    },
+    {
+      "id": 10,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    },
+    {
+      "id": 11,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    },
+    {
+      "id": 12,
+      "img": "https://lh3.googleusercontent.com/proxy/MVpl4IsLpjEyGYEYokN_gQDvskFFEmoEarNzzKBOjyzA9gtdGScadXERxRxiPkXboIkcj0D68UT0ouP6qtOyWcYarJkRi6qh0rlvwAGI",
+      "category": "업종-카페/커피",
+      "storename": "스타벅스",
+      "grade": 3.5,
+      "totalgrade": 5,
+      "review": 200,
+      "address": "강남구 역삼동",
+      "content": "아메리카노가 맛있는 집입니다."
+    }
+  ]
+}
